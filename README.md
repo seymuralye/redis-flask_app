@@ -38,7 +38,7 @@ docker --version
 docker-compose --version
 git --version
 ```
-
+> ⚠️ **NOTE:** You should replace `ENV DB_HOST=192.168.198.129` with the `ENV` variable related to your local IP address in `Dockerfile`.
 ### Installation
 
 Clone the repository:
