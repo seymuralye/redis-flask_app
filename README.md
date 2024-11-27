@@ -58,6 +58,7 @@ docker-compose ps
 You should see the following containers:
 - **flask-app**
 - **redis**
+- **redis-ui**
 - **postgresql**
 - **pgadmin**
 
